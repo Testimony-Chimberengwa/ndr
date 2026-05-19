@@ -1,0 +1,8 @@
+{
+  "name": "DRIFTWATCH NDR",
+  "description": "Adversarial Drift Detection Engine: A professional Network Detection and Response (NDR) platform for SOC analysts, featuring automated threat response and audit-ready security controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
